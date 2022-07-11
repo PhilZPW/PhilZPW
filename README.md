@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PhilZPW
-- 👀 I’m interested in GRB
+- 👀 I’m interested in GRB and AMS
 - 🌱 I’m currently learning Astrophysics
 - 💞️ I’m looking to collaborate on Data Processing
 - 📫 How to reach me ：15521338681
